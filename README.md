@@ -157,7 +157,7 @@ https://alistapart.com/article/testdriven/
 Adaptive Web Design, by Aaron Gustafson [book]    
 https://adaptivewebdesign.info/
 
-## Repsonsive Navigation
+## Responsive Navigation
 
 Responsive Navigation Patterns     
 bradfrost.com/blog/post/responsive-nav-patterns/
