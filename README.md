@@ -36,7 +36,7 @@ https://alistapart.com/article/responsive-web-design/
 A Dao of Web Design    
 https://alistapart.com/article/dao/
 
-The Web’s Grain – Franc Chimero    
+The Web’s Grain – Frank Chimero    
 https://frankchimero.com/writing/the-webs-grain/
 
 Device Agnostic    
