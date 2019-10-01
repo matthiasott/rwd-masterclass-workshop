@@ -350,3 +350,7 @@ https://www.browserstack.com/
 
 Browsersync - Time-saving synchronised browser testing    
 https://www.browsersync.io
+
+
+Introduction to cross browser testing (MDN Web Docs)    
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction
