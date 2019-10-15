@@ -28,6 +28,12 @@ https://hostingfacts.com/internet-facts-stats/
 Mobile Fact Sheet – Pew Reserach Center    
 https://www.pewinternet.org/fact-sheet/mobile/
 
+McKinsey study: The Business Value of Design    
+https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design
+
+Report: Design Maturity Model by InVision: The New Design Frontier    
+https://www.invisionapp.com/design-better/design-maturity-model/
+
 ## Responsive Web Design Foundations
 
 Responsive Web Design, an article by Ethan Marcotte    
@@ -75,6 +81,9 @@ https://www.lukew.com/ff/entry.asp?1514
 
 ## Accessibility
 
+Web Content Accessibility Guidelines (WCAG) 2.0    
+https://www.w3.org/Translations/WCAG20-de/
+
 7 Things Every Designer Needs to Know about Accessibility    
 https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
 
@@ -90,6 +99,9 @@ https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/
 A11Y Style Guide, by @cariefisher    
 http://a11y-style-guide.com/style-guide/
 
+The A11y Project    
+https://a11yproject.com
+
 What we found when we tested tools on the world’s least-accessible webpage    
 https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/
 
@@ -98,6 +110,9 @@ https://24ways.org/2017/wcag-for-people-who-havent-read-them/
 
 Inclusive Design Principles    
 https://inclusivedesignprinciples.org/
+
+Inclusive Components – A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.        
+https://inclusive-components.design
 
 Accessibility, Back to the Future | Bruce Lawson | Monki Gras 2019    
 https://www.youtube.com/watch?v=T2CjuAwrAq8
@@ -108,7 +123,7 @@ https://vimeo.com/241688610
 Color Safe – accessible color palettes based on WCAG Guidelines    
 http://colorsafe.co/
 
-contrast ratio    
+Contrast ratio    
 https://contrast-ratio.com/
 
 Integrating Contrast Checks in Your Web Workflow    
@@ -119,6 +134,21 @@ https://frontendmasters.com/courses/web-accessibility/
 
 axe: Automated accessibility testing    
 https://www.deque.com/axe/
+
+Lighthouse    
+https://developers.google.com/web/tools/lighthouse/
+
+Accessibility Insights (browser extensions & Windows app)    
+https://accessibilityinsights.io
+
+Stark Plugin – The color-blind simulator and contrast checker. Design with accessibility in mind.    
+https://getstark.co
+
+Accessibility for Everyone, Laura Kalbag [Book]    
+https://abookapart.com/products/accessibility-for-everyone
+
+Inclusive Design Patterns, Heydon Pickering [Book]    
+https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/
 
 ## Design Systems & Pattern Libraries
 
@@ -133,6 +163,12 @@ https://trentwalton.com/2016/02/26/atomic-classification/
 
 Styleguides.io – Website Style Guide Resources    
 http://styleguides.io/
+
+IBM Carbon Design System    
+https://www.carbondesignsystem.com
+
+Salesforce Lightning Design System    
+https://www.lightningdesignsystem.com
 
 Fractal    
 https://fractal.build/
@@ -154,7 +190,7 @@ https://alistapart.com/article/understandingprogressiveenhancement/
 Test-Driven Progressive Enhancement    
 https://alistapart.com/article/testdriven/
 
-Adaptive Web Design, by Aaron Gustafson [book]    
+Adaptive Web Design, by Aaron Gustafson [Book]     
 https://adaptivewebdesign.info/
 
 ## Responsive Navigation
@@ -164,6 +200,9 @@ bradfrost.com/blog/post/responsive-nav-patterns/
 
 Complex Navigation Patterns for Responsive Design    
 http://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design/
+
+Hamburger Menus and Hidden Navigation Hurt UX Metrics    
+https://www.nngroup.com/articles/hamburger-menus/
 
 
 ## Forms & Filters
@@ -178,6 +217,9 @@ https://baymard.com/blog/how-to-design-applied-filters
 
 User Intent Affects Filter Design    
 https://www.nngroup.com/articles/applying-filters/
+
+Form Design Patterns, Adam Silver [Book]    
+https://formdesignpatterns.com/
 
 ## Responsive Tables
 
@@ -198,6 +240,9 @@ https://css-tricks.com/responsive-data-tables/
 The New Web Typography    
 https://robinrendle.com/essays/new-web-typography/
 
+Flexible Typesetting, Tim Brown [Book]    
+https://abookapart.com/products/flexible-typesetting
+
 Responsive Typography: The Basics    
 https://ia.net/topics/responsive-typography-the-basics
 
@@ -207,7 +252,7 @@ https://www.smashingmagazine.com/2016/05/fluid-typography/
 Get the Balance Right: Responsive Display Text, by @clagnut ◆ 24 ways    
 https://24ways.org/2016/responsive-display-text/
 
-Matthew Butterick’s Practical Typography – A web-based book    
+Matthew Butterick’s Practical Typography – A web-based book [Book]    
 http://practicaltypography.com/
 
 Modular Scale    
@@ -258,6 +303,12 @@ https://www.youtube.com/playlist?list=PLjnstNlepBvMnKuNFvWeQWzlRp8Cbiw0X
 Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]    
 https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/
 
+High Performance Images [Free book]    
+https://www.akamai.com/us/en/multimedia/documents/content/white-paper/akamai-oreilly-high-performance-images-white-paper.pdf
+
+Image Performance, Mat Marquis [Book]    
+https://abookapart.com/products/image-performance
+
 ## Responsive Images & Asset Optimization
 
 Srcset and sizes    
@@ -278,8 +329,17 @@ https://cloudinary.com/blog/a_chaotic_good_guide_to_image_performance_part_1
 Picturefill – A responsive image polyfill    
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 
+Responsive Image Breakpoint Generator    
+https://www.responsivebreakpoints.com
+
 lazySizes    
 https://afarkas.github.io/lazysizes/index.html
+
+Squoosh    
+https://squoosh.app
+
+ImageOptim    
+https://imageoptim.com
 
 SVGO    
 https://github.com/svg/svgo
@@ -342,6 +402,9 @@ https://prototyping.news
 
 Saving Your Web Workflows with Prototyping    
 https://matthiasott.com/articles/saving-your-web-workflows-with-prototyping
+
+Prototyping for Designers, Kathryn McElroy [Book]    
+http://shop.oreilly.com/product/0636920049487.do
 
 ## Testing
 
